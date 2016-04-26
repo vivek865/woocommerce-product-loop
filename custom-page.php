@@ -41,3 +41,4 @@
 		wp_reset_postdata();
 	?>
 
+//https://www.gavick.com/blog/wp_query-woocommerce-products
